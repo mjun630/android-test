@@ -1,8 +1,32 @@
 ﻿<Properties StartupConfiguration="{DF19F64C-3E8E-4B4C-B620-CC12E4D4C0E6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="android-test/MainActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="android-test Status">
     <Files>
       <File FileName="android-test/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="android-test Status" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="android-test" expanded="True">
+            <Node name="android-test" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="android-test" expanded="True" selected="True">
+            <Node name="android-test" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="androidtest" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.android-test PreferredExecutionTarget="Android.Android_Accelerated_x86" />
